@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History of Sanatan Dharma</title>
+</head>
+<body>
+    <header>
+        <h1>History of Sanatan Dharma</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Sanatan Dharma, often referred to as Hinduism, is one of the world's oldest religions with a rich and diverse history.</p>
+        </section>
+        <section>
+            <h2>Ancient Origins</h2>
+            <p>Sanatan Dharma traces its roots to the ancient Indus Valley civilization and the Vedas, the oldest sacred texts.</p>
+        </section>
+        <section>
+            <h2>Development of Philosophical Schools</h2>
+            <p>Over time, various philosophical schools, such as Advaita Vedanta and Yoga, emerged within Sanatan Dharma.</p>
+        </section>
+        <section>
+            <h2>Medieval Period</h2>
+            <p>During the medieval period, the religion saw the rise of Bhakti and Sufi movements, influencing its devotional aspects.</p>
+        </section>
+        <section>
+            <h2>Modern Era</h2>
+            <p>In the modern era, Sanatan Dharma has spread globally, with millions of followers around the world.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Sanatan Dharma History Page</p>
+    </footer>
+</body>
+</html>
+
